@@ -19,6 +19,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/tejasbarge/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/tejasbarge/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1652-defuse-the-bomb](https://github.com/tejasbarge/DSA-Problems/tree/master/1652-defuse-the-bomb) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/tejasbarge/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/tejasbarge/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1652-defuse-the-bomb](https://github.com/tejasbarge/DSA-Problems/tree/master/1652-defuse-the-bomb) |
 ## Binary Search
 |  |
 | ------- |
