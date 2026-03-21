@@ -31,6 +31,7 @@
 | [0904-fruit-into-baskets](https://github.com/tejasbarge/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/tejasbarge/DSA-Problems/tree/master/1652-defuse-the-bomb) |
+| [3643-flip-square-submatrix-vertically](https://github.com/tejasbarge/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,4 +49,12 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasbarge/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/tejasbarge/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
+## Matrix
+|  |
+| ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/tejasbarge/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
