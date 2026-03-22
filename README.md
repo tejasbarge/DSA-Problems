@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tejasbarge/DSA-Problems/tree/master/0048-rotate-image) |
 | [0485-max-consecutive-ones](https://github.com/tejasbarge/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasbarge/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/tejasbarge/DSA-Problems/tree/master/0904-fruit-into-baskets) |
@@ -57,6 +58,11 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tejasbarge/DSA-Problems/tree/master/0048-rotate-image) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejasbarge/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejasbarge/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/tejasbarge/DSA-Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
