@@ -30,7 +30,7 @@ class Solution {
         return false;
     }
     static boolean check(long[] rowsum,long totalrowsum){
-        int currsum=0;
+        long currsum=0;
         for(int i=0;i<rowsum.length-1;i++){
             currsum+=rowsum[i];
             totalrowsum-=rowsum[i];
