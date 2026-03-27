@@ -39,6 +39,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/tejasbarge/DSA-Problems/tree/master/1652-defuse-the-bomb) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejasbarge/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejasbarge/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
@@ -68,14 +69,20 @@
 | ------- |
 | [0048-rotate-image](https://github.com/tejasbarge/DSA-Problems/tree/master/0048-rotate-image) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejasbarge/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejasbarge/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tejasbarge/DSA-Problems/tree/master/0048-rotate-image) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Enumeration
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
+## Simulation
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
