@@ -19,6 +19,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/tejasbarge/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tejasbarge/DSA-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
