@@ -21,6 +21,7 @@ class Solution {
             return -1;
         }
         boolean flag=false;
+
         for(int j=i;j<nums.length;j++){
             if(lastseen==1 && nums[j]==2){
                 minL=j-lastseenIndex<minL?j-lastseenIndex:minL;
@@ -33,6 +34,13 @@ class Solution {
                 lastseen=1;
                 lastseenIndex=j;
                 flag=true;
+            }
+            if(nums[j]==1){
+                lastseen=1;
+                lastseenIndex=j;
+            }
+            if(nums[j]==2){
+                lastseenIndex=j;
             }
         }
         if(flag==false){
