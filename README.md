@@ -12,6 +12,7 @@
 | [0904-fruit-into-baskets](https://github.com/tejasbarge/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tejasbarge/DSA-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasbarge/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Counting
 |  |
 | ------- |
