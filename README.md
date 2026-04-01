@@ -10,6 +10,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/tejasbarge/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasbarge/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/tejasbarge/DSA-Problems/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/tejasbarge/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -29,6 +30,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/tejasbarge/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasbarge/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/tejasbarge/DSA-Problems/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/tejasbarge/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/tejasbarge/DSA-Problems/tree/master/1652-defuse-the-bomb) |
@@ -41,6 +43,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/tejasbarge/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasbarge/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/tejasbarge/DSA-Problems/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/tejasbarge/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/tejasbarge/DSA-Problems/tree/master/1652-defuse-the-bomb) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejasbarge/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -55,6 +58,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/tejasbarge/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/tejasbarge/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Sorting
