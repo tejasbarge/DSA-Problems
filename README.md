@@ -40,6 +40,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/tejasbarge/DSA-Problems/tree/master/0048-rotate-image) |
 | [0485-max-consecutive-ones](https://github.com/tejasbarge/DSA-Problems/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/tejasbarge/DSA-Problems/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasbarge/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasbarge/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/tejasbarge/DSA-Problems/tree/master/0904-fruit-into-baskets) |
@@ -97,6 +98,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/tejasbarge/DSA-Problems/tree/master/0495-teemo-attacking) |
 | [2169-count-operations-to-obtain-zero](https://github.com/tejasbarge/DSA-Problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Stack
