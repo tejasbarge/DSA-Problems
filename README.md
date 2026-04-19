@@ -55,6 +55,7 @@
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tejasbarge/DSA-Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1652-defuse-the-bomb](https://github.com/tejasbarge/DSA-Problems/tree/master/1652-defuse-the-bomb) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tejasbarge/DSA-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejasbarge/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasbarge/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejasbarge/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
