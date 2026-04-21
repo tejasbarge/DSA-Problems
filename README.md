@@ -144,5 +144,10 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/tejasbarge/DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/tejasbarge/DSA-Problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
