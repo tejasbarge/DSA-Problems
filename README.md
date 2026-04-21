@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tejasbarge/DSA-Problems/tree/master/0048-rotate-image) |
+| [0477-total-hamming-distance](https://github.com/tejasbarge/DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/tejasbarge/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/tejasbarge/DSA-Problems/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasbarge/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tejasbarge/DSA-Problems/tree/master/0048-rotate-image) |
+| [0477-total-hamming-distance](https://github.com/tejasbarge/DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [2169-count-operations-to-obtain-zero](https://github.com/tejasbarge/DSA-Problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tejasbarge/DSA-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -150,4 +152,5 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/tejasbarge/DSA-Problems/tree/master/0191-number-of-1-bits) |
+| [0477-total-hamming-distance](https://github.com/tejasbarge/DSA-Problems/tree/master/0477-total-hamming-distance) |
 <!---LeetCode Topics End-->
