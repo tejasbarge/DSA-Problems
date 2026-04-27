@@ -56,6 +56,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/tejasbarge/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tejasbarge/DSA-Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tejasbarge/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1652-defuse-the-bomb](https://github.com/tejasbarge/DSA-Problems/tree/master/1652-defuse-the-bomb) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tejasbarge/DSA-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasbarge/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tejasbarge/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Counting
 |  |
