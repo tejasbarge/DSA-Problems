@@ -80,6 +80,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/tejasbarge/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/tejasbarge/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [2485-find-the-pivot-integer](https://github.com/tejasbarge/DSA-Problems/tree/master/2485-find-the-pivot-integer) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Sorting
 |  |
@@ -112,6 +113,7 @@
 | [0048-rotate-image](https://github.com/tejasbarge/DSA-Problems/tree/master/0048-rotate-image) |
 | [0477-total-hamming-distance](https://github.com/tejasbarge/DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [2169-count-operations-to-obtain-zero](https://github.com/tejasbarge/DSA-Problems/tree/master/2169-count-operations-to-obtain-zero) |
+| [2485-find-the-pivot-integer](https://github.com/tejasbarge/DSA-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tejasbarge/DSA-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/tejasbarge/DSA-Problems/tree/master/3783-mirror-distance-of-an-integer) |
