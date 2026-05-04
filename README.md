@@ -24,6 +24,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasbarge/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasbarge/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/tejasbarge/DSA-Problems/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/tejasbarge/DSA-Problems/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasbarge/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/tejasbarge/DSA-Problems/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
