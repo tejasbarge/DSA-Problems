@@ -139,14 +139,17 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejasbarge/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tejasbarge/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejasbarge/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tejasbarge/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejasbarge/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tejasbarge/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -164,4 +167,8 @@
 | [0191-number-of-1-bits](https://github.com/tejasbarge/DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/0260-single-number-iii) |
 | [0477-total-hamming-distance](https://github.com/tejasbarge/DSA-Problems/tree/master/0477-total-hamming-distance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tejasbarge/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
