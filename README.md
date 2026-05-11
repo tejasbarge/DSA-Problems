@@ -64,6 +64,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejasbarge/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejasbarge/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -129,6 +130,7 @@
 | [0495-teemo-attacking](https://github.com/tejasbarge/DSA-Problems/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/tejasbarge/DSA-Problems/tree/master/0657-robot-return-to-origin) |
 | [2169-count-operations-to-obtain-zero](https://github.com/tejasbarge/DSA-Problems/tree/master/2169-count-operations-to-obtain-zero) |
+| [2553-separate-the-digits-in-an-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Stack
