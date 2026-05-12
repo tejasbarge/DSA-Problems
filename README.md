@@ -137,6 +137,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejasbarge/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tejasbarge/DSA-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -179,4 +180,16 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejasbarge/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/tejasbarge/DSA-Problems/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/tejasbarge/DSA-Problems/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/tejasbarge/DSA-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
