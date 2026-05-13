@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tejasbarge/DSA-Problems/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/tejasbarge/DSA-Problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/0260-single-number-iii) |
 | [0477-total-hamming-distance](https://github.com/tejasbarge/DSA-Problems/tree/master/0477-total-hamming-distance) |
@@ -174,6 +175,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tejasbarge/DSA-Problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/tejasbarge/DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/0260-single-number-iii) |
@@ -195,4 +197,8 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/tejasbarge/DSA-Problems/tree/master/2487-remove-nodes-from-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tejasbarge/DSA-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
