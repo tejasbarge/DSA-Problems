@@ -13,6 +13,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/tejasbarge/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2784-check-if-array-is-good](https://github.com/tejasbarge/DSA-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/tejasbarge/DSA-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -67,6 +68,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejasbarge/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/tejasbarge/DSA-Problems/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/tejasbarge/DSA-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
@@ -93,6 +95,7 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasbarge/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tejasbarge/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2784-check-if-array-is-good](https://github.com/tejasbarge/DSA-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Counting
 |  |
