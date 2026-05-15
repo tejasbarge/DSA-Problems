@@ -51,6 +51,7 @@
 | [0048-rotate-image](https://github.com/tejasbarge/DSA-Problems/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/tejasbarge/DSA-Problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasbarge/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0260-single-number-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/0260-single-number-iii) |
 | [0477-total-hamming-distance](https://github.com/tejasbarge/DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/tejasbarge/DSA-Problems/tree/master/0485-max-consecutive-ones) |
@@ -80,6 +81,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasbarge/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Prefix Sum
