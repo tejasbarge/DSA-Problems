@@ -13,6 +13,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/tejasbarge/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2540-minimum-common-value](https://github.com/tejasbarge/DSA-Problems/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/tejasbarge/DSA-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tejasbarge/DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -70,6 +71,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejasbarge/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/tejasbarge/DSA-Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/tejasbarge/DSA-Problems/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -87,6 +89,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasbarge/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/tejasbarge/DSA-Problems/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,6 +115,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasbarge/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/tejasbarge/DSA-Problems/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejasbarge/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
