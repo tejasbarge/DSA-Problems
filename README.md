@@ -15,6 +15,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2784-check-if-array-is-good](https://github.com/tejasbarge/DSA-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tejasbarge/DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/tejasbarge/DSA-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -33,6 +34,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tejasbarge/DSA-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tejasbarge/DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/tejasbarge/DSA-Problems/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tejasbarge/DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/tejasbarge/DSA-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejasbarge/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -206,4 +209,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tejasbarge/DSA-Problems/tree/master/0078-subsets) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tejasbarge/DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
