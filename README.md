@@ -32,6 +32,7 @@
 | [0796-rotate-string](https://github.com/tejasbarge/DSA-Problems/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejasbarge/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/tejasbarge/DSA-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2129-capitalize-the-title](https://github.com/tejasbarge/DSA-Problems/tree/master/2129-capitalize-the-title) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tejasbarge/DSA-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0495-teemo-attacking](https://github.com/tejasbarge/DSA-Problems/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/tejasbarge/DSA-Problems/tree/master/0657-robot-return-to-origin) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/tejasbarge/DSA-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/tejasbarge/DSA-Problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
