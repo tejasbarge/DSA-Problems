@@ -80,6 +80,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tejasbarge/DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/tejasbarge/DSA-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tejasbarge/DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejasbarge/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -136,6 +137,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/tejasbarge/DSA-Problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/tejasbarge/DSA-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tejasbarge/DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tejasbarge/DSA-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/tejasbarge/DSA-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Enumeration
