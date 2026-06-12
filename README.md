@@ -60,6 +60,7 @@
 | [0137-single-number-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasbarge/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0260-single-number-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/0260-single-number-iii) |
+| [0414-third-maximum-number](https://github.com/tejasbarge/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0477-total-hamming-distance](https://github.com/tejasbarge/DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/tejasbarge/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/tejasbarge/DSA-Problems/tree/master/0495-teemo-attacking) |
@@ -107,6 +108,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/tejasbarge/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasbarge/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tejasbarge/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2126-destroying-asteroids](https://github.com/tejasbarge/DSA-Problems/tree/master/2126-destroying-asteroids) |
