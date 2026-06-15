@@ -56,6 +56,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tejasbarge/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/tejasbarge/DSA-Problems/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/tejasbarge/DSA-Problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/0137-single-number-ii) |
@@ -95,6 +96,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tejasbarge/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasbarge/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -197,6 +199,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tejasbarge/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/tejasbarge/DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/tejasbarge/DSA-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
