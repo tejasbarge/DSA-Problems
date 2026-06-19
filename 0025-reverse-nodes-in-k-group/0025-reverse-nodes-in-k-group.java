@@ -22,13 +22,12 @@ class Solution {
                 break;
             }
             ListNode nextNode=kth.next;
-            ListNode start=prevNode.next;
             kth.next=null;
+            ListNode start=prevNode.next;
 
             ListNode newHead=rev(start);
             prevNode.next=newHead;
             start.next=nextNode;
-
             prevNode=start;
         }
         return dummy.next;
