@@ -220,6 +220,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/tejasbarge/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0092-reverse-linked-list-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tejasbarge/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tejasbarge/DSA-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/tejasbarge/DSA-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
