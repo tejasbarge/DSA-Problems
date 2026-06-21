@@ -75,6 +75,7 @@
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tejasbarge/DSA-Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tejasbarge/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1652-defuse-the-bomb](https://github.com/tejasbarge/DSA-Problems/tree/master/1652-defuse-the-bomb) |
+| [1833-maximum-ice-cream-bars](https://github.com/tejasbarge/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tejasbarge/DSA-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejasbarge/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -116,6 +117,7 @@
 | [0414-third-maximum-number](https://github.com/tejasbarge/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasbarge/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tejasbarge/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/tejasbarge/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/tejasbarge/DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/tejasbarge/DSA-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -244,5 +246,10 @@
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/tejasbarge/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/tejasbarge/DSA-Problems/tree/master/2126-destroying-asteroids) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/tejasbarge/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
