@@ -62,6 +62,7 @@
 | [0078-subsets](https://github.com/tejasbarge/DSA-Problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasbarge/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasbarge/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/tejasbarge/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0477-total-hamming-distance](https://github.com/tejasbarge/DSA-Problems/tree/master/0477-total-hamming-distance) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tejasbarge/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasbarge/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasbarge/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejasbarge/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/tejasbarge/DSA-Problems/tree/master/2540-minimum-common-value) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasbarge/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasbarge/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tejasbarge/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/tejasbarge/DSA-Problems/tree/master/2540-minimum-common-value) |
