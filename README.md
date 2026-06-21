@@ -259,4 +259,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/tejasbarge/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/tejasbarge/DSA-Problems/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
