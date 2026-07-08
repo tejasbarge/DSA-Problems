@@ -85,6 +85,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejasbarge/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2126-destroying-asteroids](https://github.com/tejasbarge/DSA-Problems/tree/master/2126-destroying-asteroids) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/tejasbarge/DSA-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/tejasbarge/DSA-Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -127,6 +128,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tejasbarge/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/tejasbarge/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/tejasbarge/DSA-Problems/tree/master/2126-destroying-asteroids) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/tejasbarge/DSA-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2784-check-if-array-is-good](https://github.com/tejasbarge/DSA-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasbarge/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Counting
@@ -142,6 +144,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasbarge/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tejasbarge/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/tejasbarge/DSA-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/tejasbarge/DSA-Problems/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejasbarge/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
@@ -258,6 +261,7 @@
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/tejasbarge/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/tejasbarge/DSA-Problems/tree/master/2126-destroying-asteroids) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/tejasbarge/DSA-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Counting Sort
 |  |
 | ------- |
