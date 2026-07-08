@@ -270,4 +270,5 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/tejasbarge/DSA-Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/tejasbarge/DSA-Problems/tree/master/0577-employee-bonus) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tejasbarge/DSA-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1729-find-followers-count](https://github.com/tejasbarge/DSA-Problems/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
