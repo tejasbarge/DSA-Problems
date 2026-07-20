@@ -85,6 +85,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/tejasbarge/DSA-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tejasbarge/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejasbarge/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tejasbarge/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/tejasbarge/DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/tejasbarge/DSA-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tejasbarge/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/tejasbarge/DSA-Problems/tree/master/0048-rotate-image) |
 | [0477-total-hamming-distance](https://github.com/tejasbarge/DSA-Problems/tree/master/0477-total-hamming-distance) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tejasbarge/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/tejasbarge/DSA-Problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/tejasbarge/DSA-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tejasbarge/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -280,4 +282,8 @@
 | [0619-biggest-single-number](https://github.com/tejasbarge/DSA-Problems/tree/master/0619-biggest-single-number) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tejasbarge/DSA-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/tejasbarge/DSA-Problems/tree/master/1729-find-followers-count) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tejasbarge/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
